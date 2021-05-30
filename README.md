@@ -5,3 +5,5 @@ Olá, aqui poderá ver alguns dos meus certificados disponiveis de cursos realiz
 Java básico - https://loiane.training/certificado/4psckrlvO7Z0M5dapVQs
 
 Java intermediário - https://loiane.training/certificado/Z9WIl456OU6g2WAVyq8u
+
+Introdução a banco de dados e linguagem SQL - https://datascientist.com.br/certificado/validar.php?chave=33GK
