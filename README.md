@@ -1,6 +1,7 @@
 # Certificados
 
 Olá, aqui poderá ver alguns dos meus certificados disponiveis de cursos realizados, tanto online, quanto presenciais!
+
 (Hello, here you can see some of my available certificates of completed courses!) 
 
 
